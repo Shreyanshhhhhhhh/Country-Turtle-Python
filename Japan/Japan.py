@@ -1,3 +1,4 @@
+#Japan Flag 
 from turtle import*
 turtlesize(5)
 fillcolor("#FFFFFF")
@@ -23,4 +24,4 @@ pencolor("#BC002D")
 dot(420)
 hideturtle()
 
-done() #Japan Flag 
+done() 

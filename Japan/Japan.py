@@ -23,4 +23,4 @@ pencolor("#BC002D")
 dot(420)
 hideturtle()
 
-done()
+done() #Japan Flag 

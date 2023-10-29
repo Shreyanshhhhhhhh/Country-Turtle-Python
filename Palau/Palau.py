@@ -1,6 +1,7 @@
 #Palau Flag 
 from turtle import*
 turtlesize(5)
+shape("turtle")
 fillcolor("#0085CA")
 begin_fill()
 penup()

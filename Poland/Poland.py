@@ -1,6 +1,7 @@
-#Palau Flag 
+#Poland Flag 
 from turtle import*
 turtlesize(5)
+shape("turtle")
 fillcolor("#FFFFFF")
 begin_fill()
 penup()

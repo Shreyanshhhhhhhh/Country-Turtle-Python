@@ -1,6 +1,7 @@
 #Japan Flag 
 from turtle import*
 turtlesize(5)
+shape("turtle")
 fillcolor("#FFFFFF")
 begin_fill()
 penup()

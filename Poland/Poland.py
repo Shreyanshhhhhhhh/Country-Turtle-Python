@@ -1,4 +1,4 @@
-#Japan Flag 
+#Poland Flag 
 from turtle import*
 turtlesize(5)
 shape("turtle")
@@ -18,11 +18,16 @@ forward(1040)
 left(90)
 forward(310)
 end_fill()
-penup()
-home()
-pendown()
-pencolor("#BC002D")
-dot(420)
+fillcolor("#DC143C")
+begin_fill()
+left(90)
+forward(1040)
+left(90)
+forward(310)
+left(90)
+forward(1040)
+left(90)
+forward(310)
+end_fill()
 hideturtle()
-
 done() 

@@ -1,4 +1,4 @@
-#Subscribe to codegrah
+#Subscribe to CodeGrah
 from turtle import *
 #red side
 fillcolor('#CE1126')
